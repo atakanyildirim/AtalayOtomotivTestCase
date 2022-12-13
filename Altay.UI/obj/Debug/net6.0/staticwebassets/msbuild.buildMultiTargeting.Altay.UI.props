@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Altay.UI.props" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\bin\Debug\net6.0\Altay.Core.deps.json
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\bin\Debug\net6.0\Altay.Core.dll
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\bin\Debug\net6.0\Altay.Core.pdb
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\obj\Debug\net6.0\Altay.Core.csproj.AssemblyReference.cache
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\obj\Debug\net6.0\Altay.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\obj\Debug\net6.0\Altay.Core.AssemblyInfoInputs.cache
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\obj\Debug\net6.0\Altay.Core.AssemblyInfo.cs
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\obj\Debug\net6.0\Altay.Core.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\obj\Debug\net6.0\Altay.Core.dll
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\obj\Debug\net6.0\refint\Altay.Core.dll
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\obj\Debug\net6.0\Altay.Core.pdb
+C:\Users\ataka\Visual Studio 2019\Projects\TestCase\Project\AltayOtomotiv\Altay.Core\obj\Debug\net6.0\ref\Altay.Core.dll
